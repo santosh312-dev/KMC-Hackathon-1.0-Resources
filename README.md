@@ -4,5 +4,6 @@ Work smart, not just hard. Focus on finding real-life problems around you and tu
 
 Build. Test. Improve. Make it work in real life. 🚀
 
+Initial Submission Date: 25 Magh 2082 : Only Submit Report File including wireframe and workflow Diagram and other details are given above(sample file)
 
 Initial Submission Link: https://forms.gle/2YBX3Y6PgND2EFwg8
