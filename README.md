@@ -7,3 +7,5 @@ Build. Test. Improve. Make it work in real life. 🚀
 Initial Submission Date: 25 Magh 2082 : Only Submit Report File including wireframe and workflow Diagram and other details are given above(sample file)
 
 Initial Submission Link: https://forms.gle/2YBX3Y6PgND2EFwg8
+
+Some Project Ideas: https://docs.google.com/document/d/1b-61Xmpp562ROsgoiyc0lolkCy8sGYYbso8KHTCazcg/edit?usp=sharing
